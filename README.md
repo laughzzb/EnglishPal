@@ -2,6 +2,11 @@
 
 Android AI English practice app powered by DeepSeek API with SSE streaming output.
 
+<p float="left">
+  <img src="screenshots/chat.png" width="250" />
+  <img src="screenshots/chat2.png" width="250" />
+</p>
+
 ## Features
 
 - AI English conversation partner with bilingual responses (English + Chinese explanation)
